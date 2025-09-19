@@ -1,1 +1,1 @@
-print('Feature A')
+print('Feature A modified by B')
